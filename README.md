@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amma2win
-- 👀 I’m interested in learn IT
+- 👀 I’m interested in learn Sowtware developer
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Sowtware developer
+- 💞️ I’m looking to collaborate on Technology world
 - 📫 How to reach me --> ammadeomoreno@gmail.com ...
 
 <!---
