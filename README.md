@@ -4,7 +4,14 @@
 - 🥅 2023 Goals: Dominate in a good percentage React & ReactNative.
 - 📫 How to reach me --> ammadeomoreno@gmail.com ...
 
-
+## About me in code
+```js
+const amma2win= {
+pronouns: "He" | "Him"
+code:[Javascript, TypeScript, HTML, CSS]
+tools: [React, Node ,Styled-Components]
+}
+```
 
 [![Ammadeo GitHub stats](https://github-readme-stats.vercel.app/api?username=amma2win)](https://github.com/amma2win/github-readme-stats)
 
