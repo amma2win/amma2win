@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Amadeo Moreno
+ Hi, I’m Amadeo Moreno
 - 👀 I’m interested in learn Sowtware developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Technology world
 - 📫 How to reach me --> ammadeomoreno@gmail.com ...
+
+
+
+[![Ammadeo GitHub stats](https://github-readme-stats.vercel.app/api?username=amma2win)](https://github.com/amma2win/github-readme-stats)
 
 <!---
 amma2win/amma2win is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
