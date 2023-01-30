@@ -1,7 +1,7 @@
- Hi, I’m Amadeo Moreno
-- 👀 I’m interested in learn Sowtware developer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Technology world
+### Hi There I’m Amadeo Moreno
+- 🔭 I’m currently working on a React project!.
+- 🌱 I’m currently learning React & React Native
+- 🥅 2023 Goals: Dominate in a good percentage React & ReactNative.
 - 📫 How to reach me --> ammadeomoreno@gmail.com ...
 
 
