@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amma2win
+- 👋 Hi, I’m Amadeo Moreno
 - 👀 I’m interested in learn Sowtware developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Technology world
