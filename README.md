@@ -1,7 +1,7 @@
 ### Hi There I’m Amadeo Moreno
 - 🔭 I’m currently working on a React project!.
 - 🌱 I’m currently learning React & React Native
-- 🥅 2023 Goals: Dominate in a good percentage React & ReactNative.
+- 🥅 2024 Goals: Dominate MERN Projects
 - 📫 How to reach me --> ammadeomoreno@gmail.com ...
 
 ## About me in code
